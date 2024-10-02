@@ -4,11 +4,12 @@
 Este projeto é um sistema para gerenciamento de clientes, permitindo a criação, edição, exclusão e listagem de clientes.
 
 ## ⚙️ Tecnologias Utilizadas
-- **Java**
-- **JavaServer Faces (JSF)**
-- **PrimeFaces**
-- **JPA (Java Persistence API)**
-- **PostgreSQL**
+- **Java** (compilador: versão 11)
+- **JSF** (JavaServer Faces)
+- **PrimeFaces** (versão 5.3 para componentes de interface)
+- **PostgreSQL** (driver: versão 42.6.0)
+- **JUnit** (versão 4.13.1 para testes unitários)
+- **JBoss** (Java EE 7.0)
 
 ## 📋 Funcionalidades
 - Cadastrar clientes
